@@ -21,7 +21,7 @@ My final [dashboard](https://github.com/Othmane-data/Call-Center-Data-Analysis-R
 - ❎ Conclusion and Recommendations
 
 
-### 🧮 Formulas and Functions:
+### 🧮 KPIs,Power Pivot,DAX,Formulas and Functions:
 - Customer Name,Email,Country;
 ```
 - Customer Name=XLOOKUP
@@ -56,7 +56,7 @@ My final [dashboard](https://github.com/Othmane-data/Call-Center-Data-Analysis-R
     MATCH(products!$E$1,products!$A$1:$G$1,0))
 ```
 
-### 📉 Charts and Visualization:
+### 📉 Interactive Pivot Charts with slicers and Visualization:
 The report comprises 3 charts:
 
 ___1. Top Sales Of Coffee;___
