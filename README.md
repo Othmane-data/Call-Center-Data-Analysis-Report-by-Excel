@@ -10,8 +10,8 @@ The data is from an Excel document, which provides a foundation in analyzing dat
 My final [dashboard](https://github.com/Othmane-data/Call-Center-Data-Analysis-Report-by-Excel/blob/main/Call-Center-data-excel-portfolio-project.xlsx)
 
 ## Problem statement
-1. What is the total of calls for each day and month?
-2. What is the total of calls and the total amount for each Representative?
+1. What is the count of calls for each day and month?
+2. What is the count of calls and the total amount for each Representative?
 3. What is the count of calls by Gender and by City?
 4. What is the total amount by Customer ID,by City and by each Representative?
 
@@ -63,18 +63,45 @@ My final [dashboard](https://github.com/Othmane-data/Call-Center-Data-Analysis-R
 ```
 
 ### 📉 Interactive Pivot Charts with slicers and Visualization:
-The report comprises 3 charts:
+The report comprises 4 charts:
 
-___1. Top Sales Of Coffee;___
+___1. Count of calls for each day and month;___
 
-___2. Top Sales By Country;___
+___2. Count of calls and the total amount for each Representative;___
 
-___3. Top Sales By Customers Name.___
+___3. Count of calls by Gender and by City;___
+
+___4. Total amount by Customer ID,by City and by each Representative___
 
 we're use the pivot table for every shart
 
 __- Features:__
-- Order Date by Mounth Timeline;
-- Size Slicer;
-- Roast Type Name Slicer;
-- Loyalty Card Slicer.
+- Total KPIs and KPIs by Representative;
+- Representative Slicer.
+
+the all dashboard ![](call-center.PNG)
+
+
+___1. Count of calls for each day and month;___
+
+![](CALL TREND.png)
+
+_March, January and February are the months which marked the top sales with ___1.92 M,1.88 M and 1.82 M___ sum of amount and ___2819,2750 and 2720___ orders. 🤓_
+
+___2. Count of calls and the total amount for each Representative;___
+
+![](CALL-AMOUNT.PNG)
+
+_Women are more likely to buy compared to men with 65% . 🤓_
+
+___3. Count of calls by Gender and by City;___
+
+![](female vs male callers.png)  ![](rating.png)
+
+_this store deliver in 2022 more than ___28641___ orders . 🤓_
+
+___4. Total amount by Customer ID,by City and by each Representative___
+
+![](TABLE.PNG)
+
+_MAHARASHTRA,KARNATAKA and UTTAR PRADESH are the top 3 states with 69,54 % . 🤓_
