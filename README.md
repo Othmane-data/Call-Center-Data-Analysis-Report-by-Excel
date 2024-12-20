@@ -21,37 +21,32 @@ My final [dashboard](https://github.com/Othmane-data/Call-Center-Data-Analysis-R
 - ❎ Conclusion and Recommendations
 
 
-### 🧮 KPIs,Power Pivot,DAX,Formulas and Functions:
-- Customer Name,Email,Country;
-```
-- Customer Name=XLOOKUP
-  (C2,customers!$A$1:$A$1001,
-    customers!$B$1:$B$1001,,0)
-  
-- Email=IF
-  (XLOOKUP(C2,customers!$A$1:$A$1001,
-    customers!$C$1:$C$1001,,0)=0,"",
-      XLOOKUP(C2,customers!$A$1:$A$1001,customers!$C$1:$C$1001,,0))
+### 🧮 DAX,KPIs,Power Pivot,Formulas and Functions:
 
-- Country=XLOOKUP
-  (C2,customers!$A$1:$A$1001,
-    customers!$G$1:$G$1001,,0)
+- DAX;
+```
+- Call count=COUNTROWS(calls)
+
+- Total amount=SUM(calls[Purchase Amount])
+
+- Total duration=SUM([Duration])
+
+- Avr. rating=AVERAGE(calls[Satisfaction Rating])
+
+- 5* calls=CALCULATE([call count],calls[Rating rounded]=5)
+  
 ```
   
-- Coffee Type,Roast Type,Unit Price;
+- Formulas and Functions;
 ```
-- Coffee Type=INDEX
-(products!$A$1:$G$49,
-  MATCH(orders!$D2,products!$A$1:$A$49,0),
-    MATCH(products!$B$1,products!$A$1:$G$1,0))
+- Sales and Amount selection by representative =IF
+                                                 (F49=J$45,G49,NA())
 
--Roast Type=INDEX
-(products!$A$1:$G$49,
-  MATCH(orders!$D2,products!$A$1:$A$49,0),
-    MATCH(products!$C$1,products!$A$1:$G$1,0))
+-the total amount by Customer ID,by City and by each Representative=IF
+                                             (pivots!D82:J99="","",pivots!D82:J99)
 
 -Unit Price==INDEX
-(products!$A$1:$G$49,
+(products!$A$1:$G$49,=
   MATCH(orders!$D2,products!$A$1:$A$49,0),
     MATCH(products!$E$1,products!$A$1:$G$1,0))
 ```
