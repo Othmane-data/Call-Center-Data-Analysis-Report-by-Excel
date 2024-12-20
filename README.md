@@ -1,3 +1,3 @@
 # Call Center Data Analysis Dashboard
-![](CALLCENTER.webp)
+![](call.png)
 --
