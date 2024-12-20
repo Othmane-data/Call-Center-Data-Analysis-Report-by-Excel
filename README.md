@@ -16,8 +16,8 @@ My final [dashboard](https://github.com/Othmane-data/Call-Center-Data-Analysis-R
 4. What is the total amount by Customer ID,by City and by each Representative?
 
 ## Skills/ concepts demonstrated
-- 🧮 Formulas and Functions
-- 📉 Charts and Visualization
+- 🧮 KPIs,Power Pivot,DAX,Formulas and Functions
+- 📉 Interactive Pivot Charts with slicers and Visualization
 - ❎ Conclusion and Recommendations
 
 
