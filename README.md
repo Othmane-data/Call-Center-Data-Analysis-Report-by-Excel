@@ -13,7 +13,7 @@ My final [dashboard](https://github.com/Othmane-data/Call-Center-Data-Analysis-R
 1. What is the total of calls for each day and month?
 2. What is the total of calls and the total amount for each Representative?
 3. What is the count of calls by Gender and by City?
-4. What is the 
+4. What is the total amount by Customer ID,by City and by each Representative?
 
 ## Skills/ concepts demonstrated
 - 🧮 Formulas and Functions
