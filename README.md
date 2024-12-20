@@ -45,10 +45,21 @@ My final [dashboard](https://github.com/Othmane-data/Call-Center-Data-Analysis-R
 -the total amount by Customer ID,by City and by each Representative=IF
                                              (pivots!D82:J99="","",pivots!D82:J99)
 
--Unit Price==INDEX
-(products!$A$1:$G$49,=
-  MATCH(orders!$D2,products!$A$1:$A$49,0),
-    MATCH(products!$E$1,products!$A$1:$G$1,0))
+-Conditional Color Format of total amount=MAX
+                                        ($S$24:$W$40)*2
+
+-Conditional Color Format of Representative=
+                                            S$22=pivots!$B$59
+
+-Representative summary by Calls=XLOOKUP
+                                 (B59,F49:F53,G49:G53)
+
+-Representative summary by Amount=XLOOKUP
+                                  (B59,F49:F53,H49:H53)
+
+-Representative summary Call and Amount rank=RANK.AVG
+                                            (G58,G49:G53)
+
 ```
 
 ### 📉 Interactive Pivot Charts with slicers and Visualization:
