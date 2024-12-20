@@ -84,7 +84,7 @@ the all dashboard ![](call-center.PNG)
 
 ___1. Count of calls for each day and month;___
 
-![](CALLTREND.png)
+![](CALL-TREND.png)
 
 _March, January and February are the months which marked the top sales with ___1.92 M,1.88 M and 1.82 M___ sum of amount and ___2819,2750 and 2720___ orders. 🤓_
 
@@ -96,7 +96,7 @@ _Women are more likely to buy compared to men with 65% . 🤓_
 
 ___3. Count of calls by Gender and by City;___
 
-![](femalevsmalecallers.png)  ![](rating.png)
+![](femalevsmale-callers.png)  ![](rating.png)
 
 _this store deliver in 2022 more than ___28641___ orders . 🤓_
 
