@@ -3,16 +3,17 @@
 --
 
 ## Introduction
-This is a Vrinda Clothing dashboard who sales Manager can understand their customers and grow more sales in 2023 ,by Order ID, Customers ID etc...
-The data is from an Excel document, which provides a foundation in analyzing data using this powerful tool. The data contains detailed information on Order ID,Customer ID,CustomerS Name,Status of sales,Channel of sales,ship-state etc...
+it's a call center dashboard where managers want to know the performance of their team based on KPIs etc ...
+The data is from an Excel document, which provides a foundation in analyzing data using Power Pivot,interactive Pivot Charts with slicers,conditional formatting. The data contains detailed information on Call number,Customer ID,Purchase Amount,Satisfaction Rating,Duration Bucket,City etc...
 
 ## Dashboard File
 My final [dashboard](https://github.com/Othmane-data/Call-Center-Data-Analysis-Report-by-Excel/blob/main/Call-Center-data-excel-portfolio-project.xlsx)
 
 ## Problem statement
-1. What is the total sales of coffee by years ,mounths and Coffee type name?
-2. What is the top sales of Coffee in dollars,by Country?
-3. What is the top 5 sales of Coffee by Customers name?
+1. What is the total of calls for each day and month?
+2. What is the total of calls and the total amount for each Representative?
+3. What is the count of calls by Gender and by City?
+4. What is the 
 
 ## Skills/ concepts demonstrated
 - 🧮 Formulas and Functions
