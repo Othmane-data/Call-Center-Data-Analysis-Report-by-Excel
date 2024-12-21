@@ -86,13 +86,15 @@ ___1. Count of calls for each day and month;___
 
 ![](CALLTREND.PNG)
 
-_March, January and February are the months which marked the top sales with ___1.92 M,1.88 M and 1.82 M___ sum of amount and ___2819,2750 and 2720___ orders. 🤓_
+____March___ and ___April___ are the months which marked the large number of calls with ___150___ calls in March and ___140___ in April._
+
+_- for the days of the week ___Saturday___ and ___Wednesday___ always mark the large number of calls. 🤓_
 
 ___2. Count of calls and the total amount for each Representative;___
 
 ![](CALLS-AMOUNT.PNG)
 
-_Women are more likely to buy compared to men with 65% . 🤓_
+_Representatives ___R02___ and ___R03___ have the highest number of calls with ___218 and 207___ which automatically means they will have the highest amount with __$20.6k__ for __R02__ and __$20.9k__ for __R03__ . 🤓_
 
 ___3. Count of Rating,of calls by Gender and by City;___
 
