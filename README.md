@@ -108,4 +108,8 @@ ___4. Total amount by Customer ID,by City and by each Representative___
 
 ![](TABLE.PNG)
 
-_MAHARASHTRA,KARNATAKA and UTTAR PRADESH are the top 3 states with 69,54 % . 🤓_
+_This table represents the amount of each representative in this call center by city and by Customer ID . 🤓_
+
+### ❎ Conclusion and Recommendations :
+
+Push the representative R01 and R04 to make a large number of calls focusing on other cities and make more effort to satisfy their customers. 😄
