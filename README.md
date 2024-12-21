@@ -100,7 +100,9 @@ ___3. Count of Rating,of calls by Gender and by City;___
 
 ![](RATING.PNG)
 
-_this store deliver in 2022 more than ___28641___ orders . 🤓_
+_in the city of __Cleveland___ __women__ dominate the number of calls marked with more than __326 calls__, on the other side in the city of ___Columbus___ the __male gender__ has the high number of calls with a figure of __206 calls__. 🤓_
+
+_A Number of __428 calls__ which have __4 stars__ in satisfaction rating and __307__ have __5 stars__ on the other hand only __8 calls__ have __1 star__, this means that the representatives of this call center make a great effort to satisfy their customers 🤓_
 
 ___4. Total amount by Customer ID,by City and by each Representative___
 
