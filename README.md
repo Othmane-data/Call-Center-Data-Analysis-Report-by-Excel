@@ -12,7 +12,7 @@ My final [dashboard](https://github.com/Othmane-data/Call-Center-Data-Analysis-R
 ## Problem statement
 1. What is the count of calls for each day and month?
 2. What is the count of calls and the total amount for each Representative?
-3. What is the count of calls by Gender and by City?
+3. What is the count of Rating,of calls by Gender and by City?
 4. What is the total amount by Customer ID,by City and by each Representative?
 
 ## Skills/ concepts demonstrated
@@ -69,7 +69,7 @@ ___1. Count of calls for each day and month;___
 
 ___2. Count of calls and the total amount for each Representative;___
 
-___3. Count of calls by Gender and by City;___
+___3. Count of Rating,of calls by Gender and by City;___
 
 ___4. Total amount by Customer ID,by City and by each Representative___
 
@@ -94,7 +94,7 @@ ___2. Count of calls and the total amount for each Representative;___
 
 _Women are more likely to buy compared to men with 65% . 🤓_
 
-___3. Count of calls by Gender and by City;___
+___3. Count of Rating,of calls by Gender and by City;___
 
 ![](RATING.PNG)
 
